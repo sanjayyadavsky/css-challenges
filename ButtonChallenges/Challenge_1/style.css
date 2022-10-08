@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Inter+Tight:wght@300&display=swap');
+.container{
+    position: relative;
+    margin-top: 400px;
+    text-align: center;
+}
+
+/* the a tag the margin doesn't work because it's an inline element. You may need to change its display property to inline-block or block. */
+
+.btn{
+    color: white;
+    background-color: #2a99f4;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: 'Inter Tight', sans-serif;
+}
+.badge{
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 10px;
+    margin-right: -23px;
+    padding: 6px;
+    color: white;
+    background-color: #000000;
+    border-radius: 63%;
+    font-size: 10px;
+}
