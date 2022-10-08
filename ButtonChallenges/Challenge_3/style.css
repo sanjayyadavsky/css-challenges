@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Inter+Tight:wght@300&display=swap');
+
+body{
+    background-color: #cfdedf;
+}
+.btn-wrapper{
+position: relative;
+margin-top: 400px;
+text-align: center;
+}
+.btn{
+    padding: 14px 58px;
+    box-shadow: 5px 9px 18px 0px rgba(0,0,0,0.87);
+    background-color: #143970;
+    color: white;
+    font-family: 'Inter Tight', sans-serif;
+    border-radius: 30px;
+    border: none;
+}
+.btn-text-one{
+    text-shadow: 1px 2px 11px rgba(0,0,0,0.92);
+    font-size: large;
+}
