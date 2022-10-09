@@ -10,19 +10,20 @@
 .btn{
     color: white;
     background-color: #2a99f4;
-    padding: 10px 15px;
+    padding: 9px 33px;
     text-decoration: none;
     font-family: 'Inter Tight', sans-serif;
+    position: relative;
 }
 .badge{
     display: inline-block;
     overflow: hidden;
-    position: relative;
-    margin-bottom: 10px;
-    margin-right: -23px;
-    padding: 6px;
+    position: absolute;
+    bottom: 26px;
+    right: -9px;
+    padding: 7px;
     color: white;
     background-color: #000000;
-    border-radius: 63%;
+    border-radius: 50%;
     font-size: 10px;
 }
