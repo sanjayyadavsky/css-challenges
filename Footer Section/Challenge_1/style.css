@@ -9,26 +9,28 @@
 }
 body{
     background-color: #fcfcfc;
-    padding: 5px;
+    /* padding: 5px; */
 
 }
 .footer{
     position: relative;
-    top: 45%;
-    width: 80%;
-    margin: auto;
+    top: 30%;
 }
 .heading h2{
     font-family: sans-serif;
     font-weight: 600;
-    margin-left: 25px;
+    margin-left: 12%;
 }
 
+.content {
+    
+    width: 80%;
+    margin: auto;}
 .content div{
     font-weight: 200;
     float: left;
     width: 25%;
-    padding-top: 10px;
+    /* padding-top: 10px; */
     width: 25%;
 }
 div>h4{
@@ -46,7 +48,7 @@ footer{
     text-align: center;
     font-family:sans-serif;
     font-weight: bold;
-    margin-bottom: 10px;
+    padding-bottom: 20px;
 }
 .footer hr {
     margin-bottom: 25px;
